@@ -48,3 +48,12 @@ Google Colab Notebook:
 
 ## 📈 Output 
 The project successfully demonstarted emotion classification from textual data using NLP and Machine Learning techniques.
+
+ 👩‍💻 Author
+**Varsha Sundararaj**
+Business Analytics Postgraduate @ Dublin Business School  
+Aspiring Data Analyst | NLP | SQL | Python
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/varsha-sundararaj-40a463201
+- GitHub: https://github.com/varshasundararaj-analytics
