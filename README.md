@@ -43,6 +43,9 @@ To analyze textual feedback and identify user emotions using NLP techniques.
 
 ## 📷 Project Presentation
 
+![Slide ](Slide1.png)
+
+![Slide 2](Slide2.png)
 
 The project presentation slides and project report are included in this repository as a PDF.
 
