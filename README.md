@@ -47,6 +47,4 @@ Google Colab Notebook:
 - [LSTM Emotion Classification Model](https://colab.research.google.com/drive/16zZgja790OXWiz7Xw8or7BV0QXHtxVTb?usp=sharing)
 
 ## 📈 Output 
-The project helped in understanding how emotions can be identified from textual data using NLP and Machine Learning techniques.
-
-
+The project successfully demonstarted emotion classification from textual data using NLP and Machine Learning techniques.
