@@ -3,17 +3,11 @@
 ## 🚀 Overview
 This project focuses on detecting emotions from textual comments and feedback using Natural Language Processing and Machine Learning concepts.
 
-----
-
 ## 🏢 Internship Experience
 The project was developed during my TCS iON internship and helped me to understand how text data can be processed and used for emotion-based classification.
 
-----
-
 ## 🎯 Objective
 To analyze textual feedback and identify user emotions using NLP techniques.
-
----
 
 ## 🛠 Technologies Used
 - Python
@@ -22,8 +16,6 @@ To analyze textual feedback and identify user emotions using NLP techniques.
 - Deep Learning
 - Text Preprocessing
 
------
-
 ## 📊 Project Workflow
 1. Text Input
 2. Text Preprocessing
@@ -31,15 +23,11 @@ To analyze textual feedback and identify user emotions using NLP techniques.
 4. Emotion Classification
 5. Prediction Output
 
-----
-
 ## ✨ Key Learnings
 - Text preprocessing techniques
 - NLP workflow understanding
 - Emotion classification concepts
 - Machine Learning fundamentals
-
------
 
 ## 📷 Project Presentation
 
