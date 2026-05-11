@@ -37,6 +37,15 @@ To analyze textual feedback and identify user emotions using NLP techniques.
 
 The project presentation slides and project report are included in this repository as a PDF.
 
+## 💻 Project Code & Execution Files 
+
+Google Colab Notebook:
+- [Emotion Detection Notebook](https://colab.research.google.com/drive/1IMGooSHsr5u--kafW8ER0-TTgMP-JtNL?usp=sharing)
+
+- [NLP Model Implementation](https://colab.research.google.com/drive/1ARxdF1H15mTKFZcXLYZ0Gg3f0UEcVKDl?usp=sharing)
+
+- [LSTM Emotion Classification Model](https://colab.research.google.com/drive/16zZgja790OXWiz7Xw8or7BV0QXHtxVTb?usp=sharing)
+
 ## 📈 Output 
 The project helped in understanding how emotions can be identified from textual data using NLP and Machine Learning techniques.
 
